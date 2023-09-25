@@ -1,0 +1,12 @@
+{
+    "name": "nguyenminhdat/shop-thoi-trang",
+    "descripsion": "Xay dung website bán hàng-Thầy Lợi Dạy",
+    "autoload":{
+        "psr-4": {
+            "Src\\":"application/"
+        }
+    },
+    "require": {
+        "illuminate/database": "*"
+    }
+}

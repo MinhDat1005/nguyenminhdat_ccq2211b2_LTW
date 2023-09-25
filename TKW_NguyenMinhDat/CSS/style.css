@@ -1,0 +1,39 @@
+a {
+    text-decoration: none;
+}
+.bg-footer {
+    background-color: #24272e;
+    color : white ;
+}
+.copyright li{
+    padding:5px ;
+    margin-left: 20px;
+}
+.copyright li a{
+    color:white;
+}
+.col-md ul{
+    list-style-type: none;
+}
+.nav-item ul{
+    list-style-type: none;
+}
+.nav li a{
+    text-decoration: none;
+}
+.col-5 img{
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.nav-item a:hover{
+    color: orangered;
+}
+.nav-item {
+    font-weight: bold;
+}
+li a:hover{
+    color: orangered;
+}
+h5:hover{
+    color: orangered;
+}
